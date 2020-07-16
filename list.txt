@@ -1,0 +1,7 @@
+Apples:1
+Grapes:2
+Oranges:3
+Mangoes:4
+Lemons:5
+Cherry
+Avocado
